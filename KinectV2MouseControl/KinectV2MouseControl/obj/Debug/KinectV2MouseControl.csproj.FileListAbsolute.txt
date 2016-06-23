@@ -1,0 +1,15 @@
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\bin\Debug\KinectV2MouseControl.exe.config
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\bin\Debug\KinectV2MouseControl.exe
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\bin\Debug\KinectV2MouseControl.pdb
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\bin\Debug\Microsoft.Kinect.dll
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\bin\Debug\Microsoft.Kinect.xml
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl.csprojResolveAssemblyReference.cache
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\MainWindow.baml
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\MainWindow.g.cs
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\App.g.cs
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl_MarkupCompile.cache
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl.g.resources
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl.Properties.Resources.resources
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl.csproj.GenerateResource.Cache
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl.exe
+D:\MyCodeGit\MouseControlWithKinect2.0\KinectV2MouseControl\KinectV2MouseControl\obj\Debug\KinectV2MouseControl.pdb
